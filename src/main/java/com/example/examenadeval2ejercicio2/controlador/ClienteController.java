@@ -49,5 +49,4 @@ public class ClienteController {
             return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
         }
     }
-    //Todo hacer post, put y delete
 }
